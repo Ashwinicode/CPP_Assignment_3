@@ -4,6 +4,7 @@ The questions are as follows:
 
 1) Declare a class Number having one data member: num and consist of the
 following member functions.
+
 i. A default constructor
 
 ii. A parameterized constructor
